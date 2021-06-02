@@ -1,4 +1,4 @@
-# pacman
+# Pacman
 
 Type of Collaboration:  Individual
 Due:                    20 October, 2017
