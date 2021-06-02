@@ -2,14 +2,16 @@
 
 Type of Collaboration:  
 Individual
-Due:                    
-20 October, 2017
+
 Format:                 
 Programming Code
+
 Language:               
 Java
+
 Length:                 
 The solution file is expected to be approximately 500-700 lines of code.
+
 Curriculum Mode:        
 Professional Task
 
