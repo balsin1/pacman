@@ -17,7 +17,6 @@
 class Ghost extends Character
 {
     //Add and initialise Ghost variables here
-
     /**
      * Act method, runs on every frame
      */
@@ -26,7 +25,6 @@ class Ghost extends Character
     boolean intersection;
     boolean dead;
     
-
 public void act()
 {
     //Make the Ghost do things here
@@ -52,7 +50,6 @@ public void act()
     }
 
 }
-
 
 
 //Give the Ghost functions here
@@ -330,7 +327,6 @@ void scanClaraFromWest()
             }
         } else {
             setDirection("right");
-
         }
     }
 }
