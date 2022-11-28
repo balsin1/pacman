@@ -19,9 +19,6 @@
  */
 class MyClara extends Clara
 {
-    // Please leave this first level here,
-    // until after you've completed \"Part 12 -
-    // Making and Adding Levels\"
     public final char[][] LEVEL_1 = {
             {'#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#'},
             {'#','$','.','.','.','.','.','.','.','.','.','.','.','.','.','.','.','$','#'},
